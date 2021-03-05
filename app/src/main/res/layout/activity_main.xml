@@ -20,7 +20,7 @@
         android:layout_marginHorizontal="20dp"
         android:layout_marginBottom="10dp"
         android:layout_below="@+id/amImg"
-        android:text="Subir imagen"
+        android:text="Subir imagen (lugar turístico)"
         android:onClick="uploadImage"/>
 
     <Button
